@@ -32,7 +32,7 @@ bool init(){
         else{
             screenSurface = SDL_GetWindowSurface(window);
         }
-    }   
+    }
     return success;
 }
 
